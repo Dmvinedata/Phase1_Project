@@ -3,6 +3,10 @@
 
 #### Authors: Deztany Jackson
 
+##### [Presentation Link](https://github.com/Dmvinedata/Phase1_Project/blob/main/P1_Presentation.pdf)
+##### [Jupyter Notebook Link](https://github.com/Dmvinedata/Phase1_Project/blob/main/P1_Notebook.pdf)
+
+
 ***
 
 ## Overview 
