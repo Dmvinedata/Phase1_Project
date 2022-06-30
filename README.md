@@ -83,15 +83,15 @@ Ref:[Austin Animal Center Needs Project Example](https://github.com/learn-co-cur
 
 ***
 
-![GenreAnalysis]()
+![GenreAnalysis](https://github.com/Dmvinedata/Phase1_Project/blob/main/images/genre_ratings.png)
 
 ***
 
-![DirectorAnalysis]()
+![DirectorAnalysis](https://github.com/Dmvinedata/Phase1_Project/blob/main/images/genre_ratings_Director.png)
 
 ***
 
-![BudgetAnalysis]()
+![genre_ratings_Budget](https://github.com/Dmvinedata/Phase1_Project/blob/main/images/genre_ratings_Budget.png)
 
 ***
 
