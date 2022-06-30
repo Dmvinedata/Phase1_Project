@@ -77,18 +77,23 @@ Ref:[Austin Animal Center Needs Project Example](https://github.com/learn-co-cur
   - What types of movies have the highest, medium and lowest budgets?
   - Which directors and genres are associated with the highest budgets? Patterns?
 
-### Genre Analysis
+
 
 ### Visualizations
 
-***
 
+#### Genre Analysis
+***
 ![GenreAnalysis](https://github.com/Dmvinedata/Phase1_Project/blob/main/images/genre_ratings.png)
 
+
+#### Director Analysis
 ***
 
 ![DirectorAnalysis](https://github.com/Dmvinedata/Phase1_Project/blob/main/images/genre_ratings_Director.png)
 
+
+#### Budget Analysis
 ***
 
 ![genre_ratings_Budget](https://github.com/Dmvinedata/Phase1_Project/blob/main/images/genre_ratings_Budget.png)
